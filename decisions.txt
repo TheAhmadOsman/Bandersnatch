@@ -1,0 +1,19 @@
+{
+    ""
+}
+
+Black Mirror Bandersnatch __ ZX Spectrum sound heard on the bus indicates you have found all the endings...
+    -> Meta introduction
+        ? Understand? {Yes, No}
+            -- Yes
+            -- No
+                ? LOOP 2x
+                    -- Yes
+                    -- Yes
+        -> Film Begins. 8:30am, 9 July 1984.
+            ? Breakfast? _ Affects ad played on VCR __ Neighborhood dog is alluded to. Dad says "He'll be the death of us", remember that...
+                -- Sugar Puff
+                -- Frosties
+            ? Music?
+                -- 
+

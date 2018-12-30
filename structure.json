@@ -1,0 +1,66 @@
+{
+    "name": "Meta introduction.",
+    "children": [{
+        "name": "Understand?",
+        "children": [{
+                "name": "Yes!",
+                "children": [{
+                    "description": "Film begins, 8:30am, 9 July, 1984.",
+                    "name": "Breakfast?",
+                    "children": [{
+                            "name": "Sugar Puffs",
+                            "children": [{
+                                "description": "Hop on bus to Tuckersoft.",
+                                "name": "Music?",
+                                "children": [{
+                                        "name": "Thompson Twins",
+                                        "children": [{
+                                            "description": "Meet Colin and pitch Bandersnatch.",
+                                            "name": "Offer given. Decision?",
+                                            "children": [{
+                                                    "name": "Accept!",
+                                                    "children": [{
+                                                        "description": "Rushed game gets 0 out of 5 stars!",
+                                                        "name": "Rushed game gets 0 out of 5 stars!"
+                                                    }]
+                                                },
+                                                {
+                                                    "name": "Refuse!",
+                                                    "children": [{
+                                                        "name": "Nothing is perfect, says game reviewer. Visits therapist. Wanna talk about Mum?",
+                                                        "children": [{
+                                                            "name": "Yes!",
+                                                            "children": [{
+                                                                "name": "Child"
+                                                            }]
+                                                        }]
+                                                    }]
+                                                }
+                                            ]
+                                        }]
+                                    },
+                                    {
+                                        "name": "Now 2"
+                                    }
+                                ]
+                            }]
+                        },
+                        {
+                            "name": "Frosties"
+                        }
+                    ]
+                }]
+            },
+            {
+                "name": "No!",
+                "children": [{
+                        "name": "Yes!"
+                    },
+                    {
+                        "name": "Yes!"
+                    }
+                ]
+            }
+        ]
+    }]
+}
