@@ -1,19 +1,80 @@
-{
-    ""
-}
+Black Mirror Bandersnatch
+    Meta Introduction
+        Understand?
+            Yes | No [Yes | Yes]
+                Film begins. 8:30am, 9 July 1984.
+                    Breakfast? -> Neighborhood dog is allueded to. Dad says "He'll be the death of us" => Dog does indeed dig us the body
+                        Frosties | Sugar Puffs -> Affects ad played on VCR
+                            Hop on bus to Tuckersoft.
+                                Music?
+                                    Thompson Twins | Now 2
+                                        Meet Colin and pitch Bandersnatch.
+                                            Offer?
+                                                Accept
+                                                    Rushed game gets 0 out of 5 starts
+                                                        Meet Colin and pitch Bandersnatch. -> Now Stefan knows about this pathway. He tells Colin that his game bug is a buffer error.
+                                                            Offer?
+                                                                Refuse... Force into the next tree
+                                                Refuse
+                                                    Nothing is perfect, says game reviewer. Stefan visits therapist.
+                                                        Talk about Mum?
+                                                            Yes | No [Are you sure? Okay..]
+                                                                Childhood story about confiscated rabbit
+                                                                    Coming with Mum or not?
+                                                                        No
+                                                                            8:45 tran derailed. Cut to music store.
+                                                                                Vinyl?
+                                                                                    Phaedra | The Bermuda Triangle
+                                                                                        Game development montage with vinyl soundtrack.
+                                                                                            Angry at dad
+                                                                                                Throw tea over computer
+                                                                                                    Game Over
+                                                                                                        Game development montage with vinyl soundtrack.
+                                                                                                            Anger at dad
+                                                                                                                Shout at dad... Force into the next tree
+                                                                                                Shout at dad
+                                                                                                    Taken to therapist
+                                                                                                        Follow Colin
+                                                                                                            Colin's House
+                                                                                                                Take drug?
+                                                                                                                    Yes |  No (drink is spiked)
+                                                                                                                        Free will realization. Colin attempts to prove this.
+                                                                                                                            Who jumps?
+                                                                                                                                Stefan
+                                                                                                                                    Tragic accident. Bandersnatch finished "abruptly". Not even a rating.
+                                                                                                                                Colin -> This causes Colin to go missing, affecting subsequent pathways.
+                                                                                                                                    Mental breakdown. Taken to therapist.
+                                                                                                                                        Take pills?
+                                                                                                                                            Throw Them Away
+                                                                                                                                                Delivery day. An intern gives Stefan a tape from Colin - a documentary about Jerome. -> Depending on Frosties on Sugar Buffs, an ad plays here for either.
+                                                                                                                                                    Stefan expresses Anger.
+                                                                                                                                                        Destroy Computer
+                                                                                                                                                            Game over!
+                                                                                                                                                        Hit Desk
+                                                                                                                                                            Realization of reality
+                                                                                                                                                                Pick up family photo
+                                                                                                                                                                    Go through mirror
+                                                                                                                                                                        Destroy computer | Throw tea over computer -> Does not work - Stefan feels somebody is controlling him and asks for a sign
+                                                                                                                                                                            Netflix
+                                                                                                                                                                                Stefan is confused
+                                                                                                                                                                                    Try to explain | Tell him more
+                                                                                                                                                                                        21st century media platform
+                                                                                                                                                                                            Stop the conversation | Tell Him More [It is like TV but online. I control it.]
+                                                                                                                                                                                                Tells Dad, taken to therapist. Therapist says his life, as a  scenario, is not entertaining enough.
+                                                                                                                                                                                                    Wanna make it more entertaining?
+                                                                                                                                                                                                        Yes | Fuck Yeah
+                                                                                                                                                                                                            Attacks therapist who becomes Wolverine.
+                                                                                                                                                                                                                Leap through the window?
+                                                                                                                                                                                                                    Meta, goes to film set. Director stops him and says it is the fight scene now.
+                                                                                                                                                                                                                Fight her
+                                                                                                                                                                                                                    Stefan fights her. Dad comes and chokes stefan.
+                                                                                                                                                                                                                        Kick dad in the balls | Karate chop dad
+                                                                                                                                                                                                                            How is that for entertainment you psychiatric fuck?!
+                                                                                                                                                                                                                                White Bear... Force into the next tree
+                                                                                                                                                                            White Bear
+                                                                                                                                                                Pick up book
+                                                                                                        Visit Dr. Haynes
+                                                                                                    
+                                                                                    
 
-Black Mirror Bandersnatch __ ZX Spectrum sound heard on the bus indicates you have found all the endings...
-    -> Meta introduction
-        ? Understand? {Yes, No}
-            -- Yes
-            -- No
-                ? LOOP 2x
-                    -- Yes
-                    -- Yes
-        -> Film Begins. 8:30am, 9 July 1984.
-            ? Breakfast? _ Affects ad played on VCR __ Neighborhood dog is alluded to. Dad says "He'll be the death of us", remember that...
-                -- Sugar Puff
-                -- Frosties
-            ? Music?
-                -- 
-
+If all paths -> ZX Spectrum sound heard on the bus indicates you have found all endings.
