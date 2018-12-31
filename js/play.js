@@ -32,8 +32,8 @@ var svg = d3
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-//d3.json("https://bandersnatch.life/structure.json", function (error, flare) {
-d3.json("http://localhost:8000/structure.json", function (error, flare) {
+d3.json("https://bandersnatch.life/structure.json", function (error, flare) {
+    // d3.json("http://localhost:8000/structure.json", function (error, flare) {
     if (error)
         throw error;
 
