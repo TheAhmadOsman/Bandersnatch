@@ -3,7 +3,7 @@
 #         leadingspaces = len(line) - len(line.lstrip())
 #         print(leadingspaces)
 
-f = open("decisions.txt", "r")
+f = open("decisionsTv.txt", "r")
 
 depth = 0
 root = {"name": "Black Mirror Bandersnatch", "children": []}
