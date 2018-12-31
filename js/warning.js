@@ -3,7 +3,8 @@ Swal({
     confirmButtonClass: "btn btn-secondary btn-sm",
     buttonsStyling: false,
     title: "Warning!",
-    text: "Spoilers ahead! If you haven't watched the Movie already, you should head to Netflix!",
+    html: "Spoilers ahead! If you haven't watched the Movie already, you should head to Netflix!<br><br>" +
+        'This website is developed by <a href="https://twitter.com/XMasterrrr">@XMasterrrr</a>',
     confirmButtonColor: 'grey',
     confirmButtonText: "Got it!"
 });
