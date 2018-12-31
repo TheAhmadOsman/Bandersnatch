@@ -1,24 +1,24 @@
 Black Mirror Bandersnatch
     Meta Introduction
-        Understand?
-            Yes | No [Yes | Yes]
+        Understand The Game?
+            Yes | No -> Well, I think you do understand, don't you? ;)
                 Film begins. 8:30am, 9 July 1984.
-                    Breakfast? -> Neighborhood dog is allueded to. Dad says "He'll be the death of us" => Dog does indeed dig us the body
-                        Frosties | Sugar Puffs -> Affects ad played on VCR
+                    Breakfast?
+                        Frosties | Sugar Puffs -> Neighborhood dog is alluded to. Dad says "He'll be the death of us".
                             Hop on bus to Tuckersoft.
                                 Music?
                                     Thompson Twins | Now 2
                                         Meet Colin and pitch Bandersnatch.
                                             Offer?
                                                 Accept
-                                                    Rushed game gets 0 out of 5 starts
+                                                    Rushed game. Revierwer gives it 0 out of 5 starts
                                                         Meet Colin and pitch Bandersnatch. -> Now Stefan knows about this pathway. He tells Colin that his game bug is a buffer error.
                                                             Offer?
                                                                 Try again! -> Maybe you wanna "Refuse"?! Freewill, huh ;)
                                                 Refuse
                                                     Nothing is perfect, says game reviewer. Stefan visits therapist.
                                                         Talk about Mum?
-                                                            Yes | No [Are you sure? Okay..]
+                                                            Yes | No -> Nah, I want you to!
                                                                 Childhood story about confiscated rabbit
                                                                     Coming with Mum or not?
                                                                         No
@@ -85,7 +85,7 @@ Black Mirror Bandersnatch
                                                                                                                                                                                                                     No idea | He jumped.
                                                                                                                                                                                                                         Kitty leaves. Dog digs up body -> Remember when the dad said "He'll be the death of us"
                                                                                                                                                                                                                             Tuckersoft fails after Banderstantch is not released (Stefan arrested).
-                                                                                                                                                                                                                                Colin is either dead, missing, or on a tv interview which Stefans watch from prison.
+                                                                                                                                                                                                                                Colin is either dead, missing, or on a tv interview which Stefan watch from prison.
                                                                                                                                                                                                         Yes
                                                                                                                                                                                                             Colin comes to help Stefan. Stefan confesses to killing Dad.
                                                                                                                                                                                                                 Kill Colin | Let Him Go
@@ -135,7 +135,7 @@ Black Mirror Bandersnatch
                                                                                                                                                                                                                     No idea | He jumped.
                                                                                                                                                                                                                         Kitty leaves. Dog digs up body -> Remember when the dad said "He'll be the death of us"
                                                                                                                                                                                                                             Tuckersoft fails after Banderstantch is not released (Stefan arrested).
-                                                                                                                                                                                                                                Colin is either dead, missing, or on a tv interview which Stefans watch from prison.
+                                                                                                                                                                                                                                Colin is either dead, missing, or on a tv interview which Stefan watch from prison.
                                                                                                                                                                                                         Yes
                                                                                                                                                                                                             Colin comes to help Stefan. Stefan confesses to killing Dad.
                                                                                                                                                                                                                 Kill Colin | Let Him Go
@@ -174,7 +174,7 @@ Black Mirror Bandersnatch
                                                                                                                                                                                                                     No idea | He jumped.
                                                                                                                                                                                                                         Kitty leaves. Dog digs up body -> Remember when the dad said "He'll be the death of us"
                                                                                                                                                                                                                             Tuckersoft fails after Banderstantch is not released (Stefan arrested).
-                                                                                                                                                                                                                                Colin is either dead, missing, or on a tv interview which Stefans watch from prison.
+                                                                                                                                                                                                                                Colin is either dead, missing, or on a tv interview which Stefan watch from prison.
                                                                                                                                                                                                         Yes
                                                                                                                                                                                                             Colin comes to help Stefan. Stefan confesses to killing Dad.
                                                                                                                                                                                                                 Kill Colin | Let Him Go
@@ -197,7 +197,12 @@ Black Mirror Bandersnatch
                                                                                                                                                                                                 JFD -> Incorrect
                                                                                                                                                                                                     The book author kills Stefan in a dream.
                                                                                                         Visit Dr. Haynes
-                                                                                                    
-                                                                                    
-
+                                                                                                            Free will moral quandry. 
+                                                                                                                Nails | Earlobes
+                                                                                                                    Stefan resists. Dr. Haynes prescribes a higher drug dosage.
+                                                                                                                        Take the pills?
+                                                                                                                            Take Them
+                                                                                                                                Christmas. Game gets 2.5 stars.
+                                                                                                                            Flush Them
+                                                                                                                                Delivery day. Colin gives a documentary about Jerome to Stefan.
 If all paths -> ZX Spectrum sound heard on the bus indicates you have found all endings.
