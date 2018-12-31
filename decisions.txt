@@ -14,7 +14,7 @@ Black Mirror Bandersnatch
                                                     Rushed game gets 0 out of 5 starts
                                                         Meet Colin and pitch Bandersnatch. -> Now Stefan knows about this pathway. He tells Colin that his game bug is a buffer error.
                                                             Offer?
-                                                                Refuse... Force into the next tree
+                                                                Try again! -> Maybe you wanna "Refuse"?! Freewill, huh ;)
                                                 Refuse
                                                     Nothing is perfect, says game reviewer. Stefan visits therapist.
                                                         Talk about Mum?
@@ -28,10 +28,8 @@ Black Mirror Bandersnatch
                                                                                         Game development montage with vinyl soundtrack.
                                                                                             Angry at dad
                                                                                                 Throw tea over computer
-                                                                                                    Game Over
-                                                                                                        Game development montage with vinyl soundtrack.
-                                                                                                            Anger at dad
-                                                                                                                Shout at dad... Force into the next tree
+                                                                                                    Game over
+                                                                                                        Try again! -> Maybe you wanna "Shout at dad"? Do what 'I' want ;)
                                                                                                 Shout at dad
                                                                                                     Taken to therapist
                                                                                                         Follow Colin
@@ -72,7 +70,7 @@ Black Mirror Bandersnatch
                                                                                                                                                                                                                             Stefan fights her. Dad comes and chokes stefan.
                                                                                                                                                                                                                                 Kick dad in the balls | Karate chop dad
                                                                                                                                                                                                                                     How is that for entertainment you psychiatric fuck?!
-                                                                                                                                                                                                                                        White Bear... Force into the next tree
+                                                                                                                                                                                                                                        Try again! -> Maybe you wanna go with "White Bear"? I like that more ;)
                                                                                                                                                                                     White Bear
                                                                                                                                                                                         Mental breakdown about not being in control
                                                                                                                                                                                             Kill dad
@@ -104,7 +102,7 @@ Black Mirror Bandersnatch
                                                                                                                                                                                                 Game over
                                                                                                                                                                 Pick up book
                                                                                                                                                                     Stefan finds the safe.
-                                                                                                                                                                        Password
+                                                                                                                                                                        Password?
                                                                                                                                                                             JFD | PAX -> Incorrect
                                                                                                                                                                                 Give me a sign.
                                                                                                                                                                                     Netflix
@@ -122,7 +120,7 @@ Black Mirror Bandersnatch
                                                                                                                                                                                                                             Stefan fights her. Dad comes and chokes stefan.
                                                                                                                                                                                                                                 Kick dad in the balls | Karate chop dad
                                                                                                                                                                                                                                     How is that for entertainment you psychiatric fuck?!
-                                                                                                                                                                                                                                        White Bear... Force into the next tree
+                                                                                                                                                                                                                                        Try again! -> Maybe you wanna go with "White Bear"? I like that more ;)
                                                                                                                                                                                     White Bear
                                                                                                                                                                                         Mental breakdown about not being in control
                                                                                                                                                                                             Kill dad
@@ -195,7 +193,9 @@ Black Mirror Bandersnatch
                                                                                                                                                                                         Yes
                                                                                                                                                                                             Dies in the chair with therapist.
                                                                                                                                                                                         No
-                                                                                                                                                                                            Password... Force into that tree
+                                                                                                                                                                                            Password?
+                                                                                                                                                                                                JFD -> Incorrect
+                                                                                                                                                                                                    The book author kills Stefan in a dream.
                                                                                                         Visit Dr. Haynes
                                                                                                     
                                                                                     
