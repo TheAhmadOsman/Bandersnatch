@@ -1,10 +1,10 @@
 'use strict;';
 var margin = {
-        top: 20,
-        right: 120,
-        bottom: 20,
-        left: 120
-    },
+    top: 20,
+    right: 120,
+    bottom: 20,
+    left: 120
+},
     width = 600 - margin.right - margin.left,
     height = 400 - margin.top - margin.bottom;
 
@@ -227,7 +227,29 @@ function click(d) {
         d.children = d._children;
         d._children = null;
         if (typeof d.description != 'undefined') {
-            alert(d.description);
+
+            let timerInterval;
+            Swal({
+                title: d.description,
+                timer: 4500,
+                onBeforeOpen: () => {
+                    Swal.showLoading()
+                    timerInterval = setInterval(() => {
+                        Swal.getContent().querySelector('strong')
+                            .textContent = Swal.getTimerLeft()
+                    }, 100)
+                },
+                onClose: () => {
+                    clearInterval(timerInterval)
+                }
+            }).then((result) => {
+                if (
+                    // Read more about handling dismissals
+                    result.dismiss === Swal.DismissReason.timer
+                ) {
+                    console.log('I was closed by the timer')
+                }
+            })
         }
     }
     update(d);
