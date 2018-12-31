@@ -45,5 +45,6 @@ print(json_list)
 """
     use python3 jsonbuilder.py > structure.json
     open structure.json and remove enclosing square brackets.
+    also replace ' with "
     you're good to go!
 """
