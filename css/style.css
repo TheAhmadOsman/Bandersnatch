@@ -8,6 +8,10 @@ body {
 
 }
 
+#header {
+    border-radius: 8px;
+}
+
 #render {
     overflow: auto;
     text-align: center;

@@ -32,7 +32,8 @@ var svg = d3
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("https://bandersnatch.life/structure.json", function (error, flare) {
+//d3.json("https://bandersnatch.life/structure.json", function (error, flare) {
+d3.json("http://localhost:8000/structure.json", function (error, flare) {
     if (error)
         throw error;
 
@@ -227,29 +228,15 @@ function click(d) {
         d.children = d._children;
         d._children = null;
         if (typeof d.description != 'undefined') {
-
-            let timerInterval;
             Swal({
+                background: "#dee2e8",
+                confirmButtonClass: "btn btn-secondary btn-sm",
+                buttonsStyling: false,
                 title: d.description,
                 timer: 4500,
-                onBeforeOpen: () => {
-                    Swal.showLoading()
-                    timerInterval = setInterval(() => {
-                        Swal.getContent().querySelector('strong')
-                            .textContent = Swal.getTimerLeft()
-                    }, 100)
-                },
-                onClose: () => {
-                    clearInterval(timerInterval)
-                }
-            }).then((result) => {
-                if (
-                    // Read more about handling dismissals
-                    result.dismiss === Swal.DismissReason.timer
-                ) {
-                    console.log('I was closed by the timer')
-                }
-            })
+                confirmButtonColor: 'grey',
+                confirmButtonText: "Got it!"
+            });
         }
     }
     update(d);
