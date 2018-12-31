@@ -1,10 +1,10 @@
 'use strict;';
 var margin = {
-        top: 20,
-        right: 120,
-        bottom: 20,
-        left: 120
-    },
+    top: 20,
+    right: 120,
+    bottom: 20,
+    left: 120
+},
     width = 600 - margin.right - margin.left,
     height = 400 - margin.top - margin.bottom;
 
@@ -119,10 +119,6 @@ function update(source) {
         .attr("dy", ".35em")
         .attr("text-anchor", "end")
         .text(function (d) {
-            if (typeof d.description === 'undefined') {
-                return d.name;
-            }
-            alert(d.description)
             return d.name;
         })
         .style("fill-opacity", 1e-6);
@@ -230,6 +226,9 @@ function click(d) {
     } else {
         d.children = d._children;
         d._children = null;
+        if (typeof d.description != 'undefined') {
+            alert(d.description);
+        }
     }
     update(d);
 }
