@@ -231,7 +231,7 @@ function click(d) {
                 background: "#dee2e8",
                 confirmButtonClass: "btn btn-secondary btn-sm",
                 buttonsStyling: false,
-                title: d.description,
+                text: d.description,
                 timer: 4500,
                 confirmButtonColor: 'grey',
                 confirmButtonText: "Got it!"
