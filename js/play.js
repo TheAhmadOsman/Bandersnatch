@@ -1,10 +1,10 @@
 'use strict;';
 var margin = {
-    top: 20,
-    right: 120,
-    bottom: 20,
-    left: 120
-},
+        top: 20,
+        right: 120,
+        bottom: 20,
+        left: 120
+    },
     width = 600 - margin.right - margin.left,
     height = 400 - margin.top - margin.bottom;
 
@@ -32,7 +32,7 @@ var svg = d3
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("https://bandersnatch.life/structure.json", function (error, flare) {
+d3.json("https://bandersnatch.life/data/structure.json", function (error, flare) {
     if (error)
         throw error;
 

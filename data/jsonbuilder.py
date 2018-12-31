@@ -1,3 +1,11 @@
+"""
+    convert spaces to tabs, from decisions.txt to decisionsTv.txt (tabs version)
+    use python3 jsonbuilder.py > structure.json
+    open structure.json and remove enclosing square brackets.
+    also replace ' with "
+    you're good to go!
+"""
+
 # with open("decisions.txt") as f:
 #     for line in f:
 #         leadingspaces = len(line) - len(line.lstrip())
@@ -41,10 +49,3 @@ f.close()
 
 json_list = root["children"]
 print(json_list)
-
-"""
-    use python3 jsonbuilder.py > structure.json
-    open structure.json and remove enclosing square brackets.
-    also replace ' with "
-    you're good to go!
-"""
