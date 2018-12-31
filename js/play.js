@@ -33,9 +33,9 @@ var svg = d3
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.json("http://localhost:8000/structure.json", function (error, flare) {
-    if (error) 
+    if (error)
         throw error;
-    
+
     root = flare;
 
     root.x0 = height / 2;
@@ -78,8 +78,8 @@ function update(source) {
 
     // Compute the new tree layout.
     var nodes = tree
-            .nodes(root)
-            .reverse(),
+        .nodes(root)
+        .reverse(),
         links = tree.links(nodes);
 
     // Normalize for fixed-depth.
@@ -108,9 +108,9 @@ function update(source) {
         .append("circle")
         .attr("r", 1e-6)
         .style("fill", function (d) {
-            return d._children
-                ? "lightsteelblue"
-                : "#fff";
+            return d._children ?
+                "lightsteelblue" :
+                "#fff";
         });
 
     nodeEnter
@@ -122,7 +122,8 @@ function update(source) {
             if (typeof d.description === 'undefined') {
                 return d.name;
             }
-            return d.description + ' ' + d.name;
+            alert(d.description)
+            return d.name;
         })
         .style("fill-opacity", 1e-6);
 
@@ -138,9 +139,9 @@ function update(source) {
         .select("circle")
         .attr("r", 7.5)
         .style("fill", function (d) {
-            return d._children
-                ? "lightsteelblue"
-                : "#fff";
+            return d._children ?
+                "lightsteelblue" :
+                "#fff";
         });
 
     nodeUpdate
@@ -182,7 +183,10 @@ function update(source) {
                 x: source.x0,
                 y: source.y0
             };
-            return diagonal({source: o, target: o});
+            return diagonal({
+                source: o,
+                target: o
+            });
         })
         .text(function (d) {
             return d.children;
@@ -204,7 +208,10 @@ function update(source) {
                 x: source.x,
                 y: source.y
             };
-            return diagonal({source: o, target: o});
+            return diagonal({
+                source: o,
+                target: o
+            });
         })
         .remove();
 

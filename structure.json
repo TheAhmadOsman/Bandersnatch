@@ -1,66 +1,644 @@
 {
-    "name": "Meta introduction.",
+    "name": "Meta Introduction",
     "children": [{
-        "name": "Understand?",
+        "name": "Understand The Game?",
         "children": [{
-                "name": "Yes!",
+            "name": "Yes",
+            "description": "Film begins. 8:30am, 9 July 1984.",
+            "children": []
+        }, {
+            "name": "No",
+            "description": "Well, I think you do understand, don't you? ;) Film begins. 8:30am, 9 July 1984.",
+            "children": [{
+                "name": "Film begins. 8:30am, 9 July 1984.",
                 "children": [{
-                    "description": "Film begins, 8:30am, 9 July, 1984.",
                     "name": "Breakfast?",
                     "children": [{
-                            "name": "Sugar Puffs",
+                        "name": "Frosties",
+                        "description": "Neighborhood dog is alluded to. He will be the death of us, says the dad.",
+                        "children": []
+                    }, {
+                        "name": "Sugar Puffs",
+                        "description": "Neighborhood dog is alluded to. He will be the death of us, says the dad.",
+                        "children": [{
+                            "name": "Hop on bus to Tuckersoft.",
                             "children": [{
-                                "description": "Hop on bus to Tuckersoft.",
                                 "name": "Music?",
                                 "children": [{
-                                        "name": "Thompson Twins",
+                                    "name": "Thompson Twins | Now 2",
+                                    "children": [{
+                                        "name": "Meet Colin and pitch Bandersnatch.",
                                         "children": [{
-                                            "description": "Meet Colin and pitch Bandersnatch.",
-                                            "name": "Offer given. Decision?",
+                                            "name": "Offer?",
                                             "children": [{
-                                                    "name": "Accept!",
+                                                "name": "Accept",
+                                                "children": [{
+                                                    "name": "Rushed game. Revierwer gives it 0 out of 5 starts",
                                                     "children": [{
-                                                        "description": "Rushed game gets 0 out of 5 stars!",
-                                                        "name": "Rushed game gets 0 out of 5 stars!"
-                                                    }]
-                                                },
-                                                {
-                                                    "name": "Refuse!",
-                                                    "children": [{
-                                                        "name": "Nothing is perfect, says game reviewer. Visits therapist. Wanna talk about Mum?",
+                                                        "name": "Meet Colin and pitch Bandersnatch.",
+                                                        "description": "Now Stefan knows about this pathway. He tells Colin that his game bug is a buffer error.",
                                                         "children": [{
-                                                            "name": "Yes!",
+                                                            "name": "Offer?",
                                                             "children": [{
-                                                                "name": "Child"
+                                                                "name": "Try again!",
+                                                                "description": "Maybe you wanna Refuse?! Freewill, huh ;)",
+                                                                "children": []
                                                             }]
                                                         }]
                                                     }]
-                                                }
-                                            ]
+                                                }]
+                                            }, {
+                                                "name": "Refuse",
+                                                "children": [{
+                                                    "name": "Nothing is perfect, says game reviewer. Stefan visits therapist.",
+                                                    "children": [{
+                                                        "name": "Talk about Mum?",
+                                                        "children": [{
+                                                            "name": "Yes | No",
+                                                            "description": "Nah, I want you to!",
+                                                            "children": [{
+                                                                "name": "Childhood story about confiscated rabbit",
+                                                                "children": [{
+                                                                    "name": "Coming with Mum or not?",
+                                                                    "children": [{
+                                                                        "name": "No",
+                                                                        "children": [{
+                                                                            "name": "8:45 tran derailed. Cut to music store.",
+                                                                            "children": [{
+                                                                                "name": "Vinyl?",
+                                                                                "children": [{
+                                                                                    "name": "Phaedra | The Bermuda Triangle",
+                                                                                    "children": [{
+                                                                                        "name": "Game development montage with vinyl soundtrack.",
+                                                                                        "children": [{
+                                                                                            "name": "Angry at dad",
+                                                                                            "children": [{
+                                                                                                "name": "Throw tea over computer",
+                                                                                                "children": [{
+                                                                                                    "name": "Game over",
+                                                                                                    "children": [{
+                                                                                                        "name": "Try again!",
+                                                                                                        "description": "Maybe you wanna Shout at dad? Do what I want ;)",
+                                                                                                        "children": []
+                                                                                                    }]
+                                                                                                }]
+                                                                                            }, {
+                                                                                                "name": "Shout at dad",
+                                                                                                "children": [{
+                                                                                                    "name": "Taken to therapist",
+                                                                                                    "children": [{
+                                                                                                        "name": "Follow Colin",
+                                                                                                        "children": [{
+                                                                                                            "name": "Colins House",
+                                                                                                            "children": [{
+                                                                                                                "name": "Take drug?",
+                                                                                                                "children": [{
+                                                                                                                    "name": "Yes |  No (drink is spiked)",
+                                                                                                                    "children": [{
+                                                                                                                        "name": "Free will realization. Colin attempts to prove this.",
+                                                                                                                        "children": [{
+                                                                                                                            "name": "Who jumps?",
+                                                                                                                            "children": [{
+                                                                                                                                "name": "Stefan",
+                                                                                                                                "children": [{
+                                                                                                                                    "name": "Tragic accident. Bandersnatch finished abruptly. Not even a rating.",
+                                                                                                                                    "children": []
+                                                                                                                                }]
+                                                                                                                            }, {
+                                                                                                                                "name": "Colin",
+                                                                                                                                "description": "This causes Colin to go missing, affecting subsequent pathways.",
+                                                                                                                                "children": [{
+                                                                                                                                    "name": "Mental breakdown. Taken to therapist.",
+                                                                                                                                    "children": [{
+                                                                                                                                        "name": "Take pills?",
+                                                                                                                                        "children": [{
+                                                                                                                                            "name": "Throw Them Away",
+                                                                                                                                            "children": [{
+                                                                                                                                                "name": "Delivery day. An intern gives Stefan a tape from Colin - a documentary about Jerome.",
+                                                                                                                                                "description": "Depending on Frosties on Sugar Buffs, an ad plays here for either.",
+                                                                                                                                                "children": [{
+                                                                                                                                                    "name": "Stefan expresses Anger.",
+                                                                                                                                                    "children": [{
+                                                                                                                                                        "name": "Destroy Computer",
+                                                                                                                                                        "children": [{
+                                                                                                                                                            "name": "Game over!",
+                                                                                                                                                            "children": []
+                                                                                                                                                        }]
+                                                                                                                                                    }, {
+                                                                                                                                                        "name": "Hit Desk",
+                                                                                                                                                        "children": [{
+                                                                                                                                                            "name": "Realization of reality",
+                                                                                                                                                            "children": [{
+                                                                                                                                                                "name": "Pick up family photo",
+                                                                                                                                                                "children": [{
+                                                                                                                                                                    "name": "Go through mirror",
+                                                                                                                                                                    "children": [{
+                                                                                                                                                                        "name": "Cracks | Or he goes through it",
+                                                                                                                                                                        "children": [{
+                                                                                                                                                                            "name": "Destroy computer | Throw tea over computer",
+                                                                                                                                                                            "description": "Does not work - Stefan feels somebody is controlling him",
+                                                                                                                                                                            "children": [{
+                                                                                                                                                                                "name": "Give me a sign.",
+                                                                                                                                                                                "children": [{
+                                                                                                                                                                                    "name": "Netflix",
+                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                        "name": "Stefan is confused",
+                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                            "name": "Try to explain | Tell him more",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "21st century media platform",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Stop the conversation | Tell Him More [It is like TV but online. I control it.]",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "Tells Dad, taken to therapist. Therapist says his life, as a  scenario, is not entertaining enough.",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Wanna make it more entertaining?",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Yes | Fuck Yeah",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Attacks therapist who becomes Wolverine.",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Leap through the window?",
+                                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                                            "name": "Meta, goes to film set. Director stops him and says it is the fight scene now.",
+                                                                                                                                                                                                                            "children": []
+                                                                                                                                                                                                                        }]
+                                                                                                                                                                                                                    }, {
+                                                                                                                                                                                                                        "name": "Fight her",
+                                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                                            "name": "Stefan fights her. Dad comes and chokes stefan.",
+                                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                                "name": "Kick dad in the balls | Karate chop dad",
+                                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                                    "name": "How is that for entertainment you psychiatric fuck?!",
+                                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                                        "name": "Try again!",
+                                                                                                                                                                                                                                        "description": "Maybe you wanna go with White Bear? I like that more ;)",
+                                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                                }]
+                                                                                                                                                                                                                            }]
+                                                                                                                                                                                                                        }]
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }]
+                                                                                                                                                                                    }]
+                                                                                                                                                                                }, {
+                                                                                                                                                                                    "name": "White Bear",
+                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                        "name": "Mental breakdown about not being in control",
+                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                            "name": "Kill dad",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "Bury body",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Is deadline possible?",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "No",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Game director comes over",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Stefan kills director. Colin is arrested for drug use.",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }, {
+                                                                                                                                                                                                            "name": "Kitty asks where Colin is and comes over to Stefans",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Where is Colin?",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "No idea | He jumped.",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Kitty leaves. Dog digs up body",
+                                                                                                                                                                                                                        "description": "Remember when the dad said he will be the death of us?",
+                                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                                            "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                                "name": "Colin is either dead, missing, or on a tv interview which Stefan watch from prison.",
+                                                                                                                                                                                                                                "children": []
+                                                                                                                                                                                                                            }]
+                                                                                                                                                                                                                        }]
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }, {
+                                                                                                                                                                                                        "name": "Yes",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Colin comes to help Stefan. Stefan confesses to killing Dad.",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Kill Colin | Let Him Go",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Colin is either dead, missing, or on a tv interview which Stefans watch from prison.",
+                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }, {
+                                                                                                                                                                                                "name": "Chop up body",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Meets therapist and explains game only has illusion of freewill.",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "Bandersnatch gets 5 out of 5 stars. Movie Credits.",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Pearl Ritman is inspired to recreate the now-controversial game.",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Encounter bug",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Destroy Computer | Throw tea over computer",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Game over",
+                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }, {
+                                                                                                                                                                                            "name": "Back off",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "Game over",
+                                                                                                                                                                                                "children": []
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }]
+                                                                                                                                                                                    }]
+                                                                                                                                                                                }]
+                                                                                                                                                                            }]
+                                                                                                                                                                        }]
+                                                                                                                                                                    }]
+                                                                                                                                                                }]
+                                                                                                                                                            }, {
+                                                                                                                                                                "name": "Pick up book",
+                                                                                                                                                                "children": [{
+                                                                                                                                                                    "name": "Stefan finds the safe.",
+                                                                                                                                                                    "children": [{
+                                                                                                                                                                        "name": "Password?",
+                                                                                                                                                                        "children": [{
+                                                                                                                                                                            "name": "JFD | PAX",
+                                                                                                                                                                            "description": "Incorrect",
+                                                                                                                                                                            "children": [{
+                                                                                                                                                                                "name": "Give me a sign.",
+                                                                                                                                                                                "children": [{
+                                                                                                                                                                                    "name": "Netflix",
+                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                        "name": "Stefan is confused",
+                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                            "name": "Try to explain | Tell him more",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "21st century media platform",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Stop the conversation | Tell Him More [It is like TV but online. I control it.]",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "Tells Dad, taken to therapist. Therapist says his life, as a  scenario, is not entertaining enough.",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Wanna make it more entertaining?",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Yes | Fuck Yeah",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Attacks therapist who becomes Wolverine.",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Leap through the window?",
+                                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                                            "name": "Meta, goes to film set. Director stops him and says it is the fight scene now.",
+                                                                                                                                                                                                                            "children": []
+                                                                                                                                                                                                                        }]
+                                                                                                                                                                                                                    }, {
+                                                                                                                                                                                                                        "name": "Fight her",
+                                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                                            "name": "Stefan fights her. Dad comes and chokes stefan.",
+                                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                                "name": "Kick dad in the balls | Karate chop dad",
+                                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                                    "name": "How is that for entertainment you psychiatric fuck?!",
+                                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                                        "name": "Try again!",
+                                                                                                                                                                                                                                        "description": "Maybe you wanna go with White Bear? I like that more ;)",
+                                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                                }]
+                                                                                                                                                                                                                            }]
+                                                                                                                                                                                                                        }]
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }]
+                                                                                                                                                                                    }]
+                                                                                                                                                                                }, {
+                                                                                                                                                                                    "name": "White Bear",
+                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                        "name": "Mental breakdown about not being in control",
+                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                            "name": "Kill dad",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "Bury body",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Is deadline possible?",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "No",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Game director comes over",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Stefan kills director. Colin is arrested for drug use.",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }, {
+                                                                                                                                                                                                            "name": "Kitty asks where Colin is and comes over to Stefans",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Where is Colin?",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "No idea | He jumped.",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Kitty leaves. Dog digs up body",
+                                                                                                                                                                                                                        "description": "Remember when the dad said hell be the death of us",
+                                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                                            "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                                "name": "Colin is either dead, missing, or on a tv interview which Stefan watch from prison.",
+                                                                                                                                                                                                                                "children": []
+                                                                                                                                                                                                                            }]
+                                                                                                                                                                                                                        }]
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }, {
+                                                                                                                                                                                                        "name": "Yes",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Colin comes to help Stefan. Stefan confesses to killing Dad.",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Kill Colin | Let Him Go",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Colin is either dead, missing, or on a tv interview which Stefans watch from prison.",
+                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }, {
+                                                                                                                                                                                                "name": "Chop up body",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Meets therapist and explains game only has illusion of freewill.",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "Bandersnatch gets 5 out of 5 stars. Movie Credits.",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Pearl Ritman is inspired to recreate the now-controversial game.",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Encounter bug",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Destroy Computer | Throw tea over computer",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Game over",
+                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }, {
+                                                                                                                                                                                            "name": "Back off",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "Game over",
+                                                                                                                                                                                                "children": []
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }]
+                                                                                                                                                                                    }]
+                                                                                                                                                                                }]
+                                                                                                                                                                            }]
+                                                                                                                                                                        }, {
+                                                                                                                                                                            "name": "PAC - Program & Control",
+                                                                                                                                                                            "children": [{
+                                                                                                                                                                                "name": "Finds patient files. Plays tape Trauma Inception and hits Dad",
+                                                                                                                                                                                "children": [{
+                                                                                                                                                                                    "name": "Give me a sign!",
+                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                        "name": "Pacs | White Bear",
+                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                            "name": "Kills Dad",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "Call therapist.",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "What is the number?",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "20541",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Calls therapist, but gets receptionist who presumably does not know about PACS",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Police arrest Stefan. Game released anyways. 2.5 sars. Movie Credits.",
+                                                                                                                                                                                                                "children": []
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }, {
+                                                                                                                                                                                                        "name": "Wrong Number",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Buries body anyways, and dog digs it up",
+                                                                                                                                                                                                            "description": "Remember when the dad said he will be the death of us",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Police arrest Stefan. Game released anyways. 2.5 sars. Movie Credits.",
+                                                                                                                                                                                                                "children": []
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }, {
+                                                                                                                                                                                                "name": "Bury body",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Is deadline possible?",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "No",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Game director comes over",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Stefan kills director. Colin is arrested for drug use.",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }, {
+                                                                                                                                                                                                            "name": "Kitty asks where Colin is and comes over to Stefans",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Where is Colin?",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "No idea | He jumped.",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Kitty leaves. Dog digs up body",
+                                                                                                                                                                                                                        "description": "Remember when the dad said he will be the death of us",
+                                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                                            "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                                "name": "Colin is either dead, missing, or on a tv interview which Stefan watch from prison.",
+                                                                                                                                                                                                                                "children": []
+                                                                                                                                                                                                                            }]
+                                                                                                                                                                                                                        }]
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }, {
+                                                                                                                                                                                                        "name": "Yes",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Colin comes to help Stefan. Stefan confesses to killing Dad.",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Kill Colin | Let Him Go",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Tuckersoft fails after Banderstantch is not released (Stefan arrested).",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Colin is either dead, missing, or on a tv interview which Stefans watch from prison.",
+                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }, {
+                                                                                                                                                                                                "name": "Chop up body",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "Meets therapist and explains game only has illusion of freewill.",
+                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                        "name": "Bandersnatch gets 5 out of 5 stars. Movie Credits.",
+                                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                                            "name": "Pearl Ritman is inspired to recreate the now-controversial game.",
+                                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                                "name": "Encounter bug",
+                                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                                    "name": "Destroy Computer | Throw tea over computer",
+                                                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                                                        "name": "Game over",
+                                                                                                                                                                                                                        "children": []
+                                                                                                                                                                                                                    }]
+                                                                                                                                                                                                                }]
+                                                                                                                                                                                                            }]
+                                                                                                                                                                                                        }]
+                                                                                                                                                                                                    }]
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }]
+                                                                                                                                                                                    }]
+                                                                                                                                                                                }]
+                                                                                                                                                                            }]
+                                                                                                                                                                        }, {
+                                                                                                                                                                            "name": "Toy",
+                                                                                                                                                                            "children": [{
+                                                                                                                                                                                "name": "Safe unlocks. Puts back toy under bed. Still misses 8:30 train.",
+                                                                                                                                                                                "children": [{
+                                                                                                                                                                                    "name": "Are you coming with Mum?",
+                                                                                                                                                                                    "children": [{
+                                                                                                                                                                                        "name": "Yes",
+                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                            "name": "Dies in the chair with therapist.",
+                                                                                                                                                                                            "children": []
+                                                                                                                                                                                        }]
+                                                                                                                                                                                    }, {
+                                                                                                                                                                                        "name": "No",
+                                                                                                                                                                                        "children": [{
+                                                                                                                                                                                            "name": "Password?",
+                                                                                                                                                                                            "children": [{
+                                                                                                                                                                                                "name": "JFD",
+                                                                                                                                                                                                "description": "Incorrect",
+                                                                                                                                                                                                "children": [{
+                                                                                                                                                                                                    "name": "The book author kills Stefan in a dream.",
+                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                }]
+                                                                                                                                                                                            }]
+                                                                                                                                                                                        }]
+                                                                                                                                                                                    }]
+                                                                                                                                                                                }]
+                                                                                                                                                                            }]
+                                                                                                                                                                        }]
+                                                                                                                                                                    }]
+                                                                                                                                                                }]
+                                                                                                                                                            }]
+                                                                                                                                                        }]
+                                                                                                                                                    }]
+                                                                                                                                                }]
+                                                                                                                                            }]
+                                                                                                                                        }]
+                                                                                                                                    }]
+                                                                                                                                }]
+                                                                                                                            }]
+                                                                                                                        }]
+                                                                                                                    }]
+                                                                                                                }]
+                                                                                                            }]
+                                                                                                        }]
+                                                                                                    }, {
+                                                                                                        "name": "Visit Dr. Haynes",
+                                                                                                        "children": [{
+                                                                                                            "name": "Free will moral quandry.",
+                                                                                                            "children": [{
+                                                                                                                "name": "Nails | Earlobes",
+                                                                                                                "children": [{
+                                                                                                                    "name": "Stefan resists. Dr. Haynes prescribes a higher drug dosage.",
+                                                                                                                    "children": [{
+                                                                                                                        "name": "Take the pills?",
+                                                                                                                        "children": [{
+                                                                                                                            "name": "Take Them",
+                                                                                                                            "children": [{
+                                                                                                                                "name": "Christmas. Game gets 2.5 stars.",
+                                                                                                                                "children": []
+                                                                                                                            }]
+                                                                                                                        }, {
+                                                                                                                            "name": "Flush Them",
+                                                                                                                            "children": [{
+                                                                                                                                "name": "Delivery day. Colin gives a documentary about Jerome to Stefan.",
+                                                                                                                                "children": []
+                                                                                                                            }]
+                                                                                                                        }]
+                                                                                                                    }]
+                                                                                                                }]
+                                                                                                            }]
+                                                                                                        }]
+                                                                                                    }]
+                                                                                                }]
+                                                                                            }]
+                                                                                        }]
+                                                                                    }]
+                                                                                }]
+                                                                            }]
+                                                                        }]
+                                                                    }]
+                                                                }]
+                                                            }]
+                                                        }]
+                                                    }]
+                                                }]
+                                            }]
                                         }]
-                                    },
-                                    {
-                                        "name": "Now 2"
-                                    }
-                                ]
+                                    }]
+                                }]
                             }]
-                        },
-                        {
-                            "name": "Frosties"
-                        }
-                    ]
+                        }]
+                    }]
                 }]
-            },
-            {
-                "name": "No!",
-                "children": [{
-                        "name": "Yes!"
-                    },
-                    {
-                        "name": "Yes!"
-                    }
-                ]
-            }
-        ]
+            }]
+        }]
     }]
 }
