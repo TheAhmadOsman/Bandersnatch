@@ -8,6 +8,10 @@ body {
 
 }
 
+strong {
+    font-size: 115%;
+}
+
 #inside {
     position: relative;
     width: 100%;
