@@ -16,7 +16,7 @@
 
 ## Features :sparkles: :sunglasses:
 
-##### Currently, [Bandersnatch Life](http://bandersnatch.life) supports the following:
+Currently, [Bandersnatch Life](http://bandersnatch.life) supports the following:
 
 * Informational Notifications - Some are Timed
 
@@ -30,18 +30,18 @@
 
 ## :camera: Demo and Screenshots :video_camera:
 
-Bandersnatch Life                           | Bandersnatch Life
-:-------------------------:|:-------------------------:
-![Spoiler Alert](img/readme/1-Spoiler.png)   |  ![Introduction](img/readme/2-Introduction.png)
-![Notifications](img/readme/3-Notifications.png)  |  ![Paths](img/readme/4-Paths.png)
+                Bandersnatch Life                |               Bandersnatch Life
+:-----------------------------------------------:|:---------------------------------------------:
+   ![Spoiler Alert](img/readme/1-Spoiler.png)    | ![Introduction](img/readme/2-Introduction.png)
+![Notifications](img/readme/3-Notifications.png) |        ![Paths](img/readme/4-Paths.png)
 
 ![Demo](img/readme/Demo.gif)
 
 ## Usage :video_game:
 
-##### This website is written in **Javascript** with help of D3.js. Data and its related scripts in **Python 3.7**
+This website is written in **Javascript** with help of D3.js. Data in JSON and its related scripts are in **Python 3.7**
 
-*  `git clone https://github.com/Ahmad-Magdy-Osman/Bandersnatch.git`
+* `git clone https://github.com/Ahmad-Magdy-Osman/Bandersnatch.git`
 
 * `cd Bandersnatch`
 
@@ -57,7 +57,7 @@ Bandersnatch Life                           | Bandersnatch Life
 6. Submit a pull request :+1:
 
 ## Tools :eyeglasses:
-##### Programming languages, formats, and libraries.
+Programming languages, formats, and libraries.
   * HTML
     * Bootstrap
   * CSS
@@ -68,8 +68,35 @@ Bandersnatch Life                           | Bandersnatch Life
   * JSON
 
 ## Future Plans :soon:
+Based on given feedback, the following improvements are to be made/considered. Please feel free to pick any of them and start working on improving it as a contribtor.
 
-##### Coming soon!
+* General
+    * Mobile Responsiveness
+    * Save user session with all visited paths
+* Notifications
+    * Wait time
+    * Change notifications into rounded boxes(popover, toolbox), with hover-over focus, that reside over the center of the links
+* Graphics
+    * Horizontal Scrolling (overriding the overflow of the body element by the svg's element)
+    * Auto-focus on new choices
+    * Zooming in and out
+        * Maybe zoom out of the previous nodes while still zoom in on the new ones to make all of them fit on screen?
+    * Expand everything!
+    * Left to right paths
+        * Maybe as an option?
+    * Text wrapping 
+* Content
+    * Which cereal video ad is played
+    * Overriding not to talk about the mom path
+* Marketing
+    * SEO
+    * Share on Social Media button
+* Style/Design
+    * Fonts
+    * Footer
+    * Links and Nodes Color
+* Read Me
+    * Add contributors
 
 ## Current Website Hierarchy :muscle:
 
@@ -103,4 +130,4 @@ Bandersnatch Life                           | Bandersnatch Life
 
 ## License :books:
 
-[Bandersnatch Life](http://bandersnatch.life) is an open source project under MIT license. Bandersnatch Life is a fan work of Netflix's Black Mirror: Bandersnatch - any assets used are copylefted and should fall under fair use policy. Special thanks to /u/alpine-.
+[Bandersnatch Life](http://bandersnatch.life) is an open source project under MIT license. [Bandersnatch Life](http://bandersnatch.life)  is a fan work of Netflix's Black Mirror: Bandersnatch - any assets used are copylefted and should fall under fair use policy. Special thanks to /u/alpine-.
