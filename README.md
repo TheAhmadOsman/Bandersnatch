@@ -30,10 +30,10 @@ Currently, [Bandersnatch Life](http://bandersnatch.life) supports the following:
 
 ## :camera: Demo and Screenshots :video_camera:
 
-                Bandersnatch Life                |               Bandersnatch Life
-:-----------------------------------------------:|:---------------------------------------------:
-   ![Spoiler Alert](img/readme/1-Spoiler.png)    | ![Introduction](img/readme/2-Introduction.png)
-![Notifications](img/readme/3-Notifications.png) |        ![Paths](img/readme/4-Paths.png)
+Bandersnatch Life                           | Bandersnatch Life
+:-------------------------:|:-------------------------:
+![Spoiler Alert](img/readme/1-Spoiler.png)   |  ![Introduction](img/readme/2-Introduction.png)
+![Notifications](img/readme/3-Notifications.png)  |  ![Paths](img/readme/4-Paths.png)
 
 ![Demo](img/readme/Demo.gif)
 
