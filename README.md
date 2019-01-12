@@ -104,6 +104,10 @@ Based on given feedback, the following improvements are to be made/considered. P
   
 * More to come...
 
+## :man_dancing: Collaborators & Contributors :dancer:
+
+[<img src="https://github.com/Ahmad-Magdy-Osman.png" width="114px;"/><br /><sub><b>Ahmad M. Osman</b></sub>](https://github.com/Ahmad-Magdy-Osman)<br />
+
 ## Inspiration :notebook:
 
 > ##### You will fail.
